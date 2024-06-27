@@ -1,0 +1,39 @@
+[
+    {
+      "name": "iPhone 14 pro",
+      "company": "Apple",
+      "quantity": 2,
+      "price": 110
+    },
+    {
+      "name": "JBL baserockers",
+      "company": "JBL",
+      "quantity": 5,
+      "price": 115
+    },
+    {
+      "name": "Macbook pro",
+      "company": "Apple",
+      "quantity": 2,
+      "price": 180
+    },
+    {
+      "name": "Blutooth Headphone",
+      "company": "SONY",
+      "quantity": 4,
+      "price": 30
+    },
+    {
+      "name": "iPad pro",
+      "company": "Apple",
+      "quantity": 6,
+      "price": 140
+    },
+    {
+      "name": "Android TV",
+      "company": "SONY",
+      "quantity": 2,
+      "price": 200
+    }
+  ]
+  
